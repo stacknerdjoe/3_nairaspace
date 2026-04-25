@@ -4,7 +4,7 @@ A clean and intuitive web app to help you measure, analyse, and take control of 
 
 🔗 **Live Demo:** [nairaspace.netlify.app](https://nairaspace.netlify.app)
 
-![Nairaspace Dashboard](./screenshot.png)
+![Nairaspace Dashboard](./Screenshot.jpg)
 
 ---
 
